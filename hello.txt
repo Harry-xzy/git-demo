@@ -2,5 +2,7 @@ hello 1.0
 2.o
 3.0
 hot-fix
- 
+<<<<<<< HEAD
 master test
+hot-fix test
+>>>>>>> hot-fix
